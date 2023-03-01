@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello or Dzięń dobry 👋
+
+I'm Zina, a QA Engineer with a passion for learning and growing in tech 👩‍💻 \
+I have a year of experience in manual software tesing and have worked on several projects, testing various web and desktop applications \
+🇵🇱 Based in Wroclaw, Poland \
+🌱 I’m currently learning Automated Testing on JavaScript \
+💡 I love to keep learning and trying out new things, that's why I have a variety of projects on my page \
+🎨 When I'm not testing, you can find me painting — unwinding and destressing after a long day
+
+## Languages and Tools
+
+### My Testing Documentation
 
 <!--
 **aivirrne/aivirrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
