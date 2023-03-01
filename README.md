@@ -7,7 +7,9 @@ I have a year of experience in manual software tesing and have worked on several
 💡 I love to keep learning and trying out new things, that's why I have a variety of projects on my page \
 🎨 When I'm not testing, you can find me painting — unwinding and destressing after a long day
 
-## Languages and Tools
+### Languages and Tools
+
+![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=1B72ED)
 
 ### My Testing Documentation
 
