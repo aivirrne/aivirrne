@@ -27,9 +27,13 @@ I have a year of experience in manual software tesing and have worked on several
 
 ### My Testing Documentation
 
-TestSurvey
+[Test Survey](https://docs.google.com/spreadsheets/d/14Y3pPY9O1p0Ld48i0rbAdQBGFx5geNAKWB0R5hABVMw/edit?usp=sharing) (don't forget to switch between lists to see statistics and a detailed list of checks)
 
 ## Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f7f7f7?style=for-the-badge&logo=LinkedIn&logoColor=0C60BE)](https://www.linkedin.com/in/aivirrne/)
+[![Telegram](https://img.shields.io/badge/Telegram-f7f7f7?style=for-the-badge&logo=Telegram&logoColor=31A5DF)](https://t.me/aivirrnez)
+[![Email](https://img.shields.io/badge/Email-f7f7f7?style=for-the-badge&logo=gmail&logoColor=E94134)](mailto:zinamishch@gmail.com)
 
 <!--
 **aivirrne/aivirrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
