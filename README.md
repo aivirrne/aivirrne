@@ -1,4 +1,4 @@
-# Hello or Dzięń dobry 👋
+# Hello or Dzień dobry 👋
 
 I'm Zina, a QA Engineer with a passion for learning and growing in tech 👩‍💻 \
 I have a year of experience in manual software tesing and have worked on several projects, testing various web and desktop applications \
